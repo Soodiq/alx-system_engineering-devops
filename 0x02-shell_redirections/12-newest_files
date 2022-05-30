@@ -1,0 +1,2 @@
+#!/bin/bash
+find . ls -al --time-style=%D | grep 'date *%D'
